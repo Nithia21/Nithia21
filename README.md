@@ -70,4 +70,4 @@ I enjoy exploring new technologies and digital tools that make learning and teac
 
 ## About Me
 
-Nithia formal pic.jpg
+![Profile Image](profile.jpg)
