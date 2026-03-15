@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Nithia</h1>
+<h1 align="center">Hi , I'm Nithia Sree </h1>
 <h3 align="center">Master's Student in Software Engineering | University of Malaya</h3>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 I am currently pursuing a **Master's degree in Software Engineering** at **University of Malaya**.
+ I am currently pursuing a **Master's degree in Software Engineering** at **University of Malaya**.
 
-📚 I am taking the course **Framework-Based Software Design and Development**, where I aim to learn how modern frameworks help developers build scalable and efficient applications.
+ I am taking the course **Framework-Based Software Design and Development**, where I aim to learn how modern frameworks help developers build scalable and efficient applications.
 
-👩‍🏫 Besides studying, I am also a **teacher**, and I enjoy helping students explore technology and digital skills.
+ Besides studying, I am also a **teacher**, and I enjoy helping students explore technology and digital skills.
 
 ---
 
-## 💡 Interests
+##  Interests
 
 - Web Application Development  
 - Software Frameworks  
@@ -23,7 +23,7 @@
 
 ---
 
-## 🎯 Expectations for This Course
+##  Expectations for This Course
 
 Through this course, I hope to:
 
@@ -34,7 +34,7 @@ Through this course, I hope to:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Framework-Based Software Development
 - Git and GitHub Version Control
@@ -42,7 +42,7 @@ Through this course, I hope to:
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
@@ -50,24 +50,24 @@ Through this course, I hope to:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Nithia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithia21&show_icons=true)
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nithia21)
 
 ---
 
-## ✨ Fun Fact
+## Fun Fact
 
 I enjoy exploring new technologies and digital tools that make learning and teaching more effective.
 
 ---
 
-## 📷 About Me
+## About Me
 
-![Profile Image](Nithia formal pic.jpg)
+Nithia formal pic.jpg
